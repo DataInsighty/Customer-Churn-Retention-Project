@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-fuzzy
+scikit-learn
+shap
+matplotlib
+alibi
+pulp
+pillow
+google-generativeai
+joblib
+pickle
